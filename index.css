@@ -1,0 +1,30 @@
+html{
+    height: 100%;
+}
+.body{
+    height: 100%;
+    display: flex;
+    margin: 0;
+}
+#tab1{
+    float: left;
+    background-color: aqua;
+    width: 33%;
+}
+#tab2{
+    display: flex;
+    width: 33%;
+}
+#tab3{
+    float: right;
+    background-color: seagreen;
+    width: 33%;
+}
+#tab2_object{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background: black;
+    overflow: hidden;
+}

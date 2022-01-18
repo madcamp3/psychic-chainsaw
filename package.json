@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "simplex-noise": "3.0.1",
+    "three": "0.136.0"
+  },
+  "name": "vanilla_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
