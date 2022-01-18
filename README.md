@@ -4,7 +4,7 @@
 
 AI model을 통해서 생성된 음악을 받아와서 Audio Visualizer를 통해 음악의 진폭 변화에 맞춰 3d model이 움직이도록 구성했다.  생성되는 음악의 종류는 클래식 음악, 힙합, Pop으로 총 3가지이다. 사용자가 원하는 음악 장르를 서택하면 그 음악 장르에 알맞는 3d model audio visualizer가 나타나게 된다.
 
-# Fail Version
+# Demo Version
 https://drive.google.com/file/d/1NYpZZj2wbOlpitKAl47LF8cR37g8deDk/view?usp=sharing
 https://drive.google.com/file/d/1ZQnCKualQZqvOTUvIa77HlJyrHw5TkoA/view?usp=sharing
 
