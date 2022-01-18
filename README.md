@@ -8,6 +8,9 @@ AI model을 통해서 생성된 음악을 받아와서 Audio Visualizer를 통�
 https://drive.google.com/file/d/1NYpZZj2wbOlpitKAl47LF8cR37g8deDk/view?usp=sharing
 https://drive.google.com/file/d/1ZQnCKualQZqvOTUvIa77HlJyrHw5TkoA/view?usp=sharing
 
+# Main Page
+http://myeongryun.kr.s3-website.ap-northeast-2.amazonaws.com/
+
 ## HTML DOM
 
 React를 사용하지 않고, 순수하게 Vanilla JS로 프로젝트를 진행하는 과정에서 동적으로 HTML문을 삽입할 수 있도록 HTML DOM을 사용했다.
